@@ -1,2 +1,2 @@
 # alx-higher_level_programming
-this repository will contain all project related to python
+this repository will contain all projects related to python
