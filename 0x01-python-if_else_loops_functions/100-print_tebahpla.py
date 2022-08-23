@@ -6,4 +6,4 @@ for i, val in enumerate(range(ord('z'), ord('a') - 1, -1), start=1):
         res += chr(val - 32)
     else:
         res += chr(val)
-print(res, end="")
+print("{:s}".format(res), end="")
